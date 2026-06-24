@@ -1,10 +1,10 @@
 # Ecommerce-Sales-Dashboard
-📌 Project Overview
+📌 Project Overview ->
 This project presents an interactive E-Commerce Sales Dashboard built using Power BI to analyze and visualize sales performance across different dimensions such as state, category, customer behavior, and payment modes.
 
 The dashboard helps in extracting meaningful insights to support data-driven business decisions.
 
-🎯 Objectives
+🎯 Objectives->
 To analyze overall sales, profit, and quantity
 To identify top-performing states and customers
 To understand category-wise and sub-category-wise performance
@@ -12,7 +12,7 @@ To evaluate profit trends over months
 To analyze customer payment preferences
 
 
-📊 Key Insights
+📊 Key Insights->
 💰 Total Sales Amount: 438K
 📦 Total Quantity Sold: 5615
 📈 Total Profit: 37K
